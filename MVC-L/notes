@@ -1,0 +1,6 @@
+separation admin and users
+show flights for users 
+book flight for users
+show reservations for users 
+enable admin to show the user raservation
+the admin cannot delete  reserved flights 
